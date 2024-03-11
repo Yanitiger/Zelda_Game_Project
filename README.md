@@ -2,26 +2,9 @@
 The Legend of Zelda: CPP Edition
 This repository is part of a Programming Assignment for the Advanced Programming Course.
 
-## Setup
-1. Clone this project inside an OpenFrameworks installation's "apps/myApps/" directory
-2. Build & Run the project
+(Yaniel Varela Soler) (Yaniel.varela@upr.edu)
 
-## Submitting Assignment
-To submit this assignment, create a Release with the branch that holds all the changes you have added. If no Release is made, the last commit to the master branch will be graded.
-Don't forget that you must also fill out an evaluation form in Moodle to consider the project submitted.
-
-## Grading
-
-(802-21-8814) (Yaniel Varela Soler) (Yaniel.varela@upr.edu)
-(843-20-2952) (Nelson S. Escalona Ortiz) (nelson.escalona@upr.edu)
-
-Any project that doesn't compile will receive a 0.
-
-If a partner has no commits in the repositories, they'll will receive a 0.
-
-## Student Notes
-If you have any bonus specs, bonus or any details the TA's should know, you should include it here:
-
+## Notes
 What are the extra specs/bonuses we created? Here they are:
 
 1)  Ohhh fearsome hero, there are 2 unexplored dungeons scattered around the Overworld that beg to be explored.
